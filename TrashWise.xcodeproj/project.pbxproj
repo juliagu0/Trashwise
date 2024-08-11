@@ -46,7 +46,6 @@
 		DA98BCBA2B01C07800363DB6 = {
 			isa = PBXGroup;
 			children = (
-				DA289C8D2C39C22F00B2413D /* TrashwiseAiModel.mlmodel */,
 				DA98BCDC2B01C2BB00363DB6 /* Inceptionv3.mlkitmodel */,
 				DA289C892C39C03900B2413D /* TrashwiseClassifier.mlpackage */,
 				DA98BCC52B01C07900363DB6 /* TrashWise */,
@@ -65,6 +64,7 @@
 		DA98BCC52B01C07900363DB6 /* TrashWise */ = {
 			isa = PBXGroup;
 			children = (
+				DA289C8D2C39C22F00B2413D /* TrashwiseAiModel.mlmodel */,
 				DA98BCC62B01C07900363DB6 /* AppDelegate.swift */,
 				DA98BCC82B01C07900363DB6 /* SceneDelegate.swift */,
 				DA98BCCA2B01C07900363DB6 /* ViewController.swift */,
